@@ -1,5 +1,5 @@
 import streamlit as st
-from crawling import finance_naver
+import finanace_naver
 
 
 # 사이드바 화면
